@@ -1,13 +1,1 @@
-*{
-  margin: 0;
-  padding: 0;
-  font-family: 'poppins', 'sans-serif';
-  box-sizing: border-box;
-}
-.container{
-  width: 100%;
-  min-height: 200vh;
-  background: linear-gradient(135deg,#153677,#4e085f);
-  padding: 10px;
-  
-}
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Playfair+Display&display=swap');
